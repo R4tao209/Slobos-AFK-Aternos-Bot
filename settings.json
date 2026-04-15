@@ -1,14 +1,14 @@
 {
-  "name": "Bot filho da puta",
+  "name": "BotFDP",
   "bot-account": {
-    "username": "Bot filho da puta",
+    "username": "BotFDP",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Resenha1522.aternos.me",
     "port": 40989,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
