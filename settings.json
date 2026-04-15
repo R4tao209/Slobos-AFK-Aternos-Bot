@@ -2,14 +2,14 @@
   "name": "BotFDP",
   "bot-account": {
     "username": "BotFDP",
-    "password": "",
-    "type": "offline"
+    "password": "chalol78",
+    "type": "online"
   },
   "server": {
     "ip": "Resenha1522.aternos.me",
     "port": 40989,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
